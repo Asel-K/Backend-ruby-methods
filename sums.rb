@@ -34,7 +34,7 @@ class Sum2
     end 
 
     def new_total
-        @new_total= @a+@b
+        @a+@b
     end 
 
 end 
